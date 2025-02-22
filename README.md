@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemang Dutt Mishra</h1>
-<h3 align="center">A passionate Frontend Web Developer from India.</h3>
+<h3 align="center">A passionate Web Developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemang2208&label=Profile%20views&color=0e75b6&style=flat" alt="hemang2208" /> </p>
 
