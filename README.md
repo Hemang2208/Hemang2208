@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **workwithhemang@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DLzvNyLnm69bGJ33SEXoiWhslaseWl28/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hWVgzFSK7ZwGGZ4A_uuwqrSGoQ1PjZhL/view)
 
 - ⚡ Fun fact **I Think , I am a Video Editor & Content Writer.**
 
