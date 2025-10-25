@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TensorFlowJS & React Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hemang2208?tab=repositories](https://github.com/Hemang2208?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Hemang2208](https://github.com/Hemang2208?tab=repositories)
 
 - 📝 I am also present on [https://bento.me/hemang2208](https://bento.me/hemang2208)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **workwithhemang@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KdjrEgPcyL0mxLHBH5cDIo8f5dC0cgic/view?usp=sharing](https://drive.google.com/file/d/1KdjrEgPcyL0mxLHBH5cDIo8f5dC0cgic/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DLzvNyLnm69bGJ33SEXoiWhslaseWl28/view?usp=sharing)
 
 - ⚡ Fun fact **I Think , I am a Video Editor & Content Writer.**
 
